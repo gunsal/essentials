@@ -4,7 +4,7 @@
 		module="essential-scala$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190323144050"
+		publication="20190702173432"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
